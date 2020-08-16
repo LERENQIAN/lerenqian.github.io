@@ -7,8 +7,7 @@ tags:
 title: Mobile Computing Summary
 ---
 
-**2020.03.03_Review_for_CSE535:**
-Mobile-Computing-System-Models/Context-Aware-Computing/Mobile-Security/Mobility/Power-and-Energy/IOT;
+**2020.03.03_Review_for_CSE535:**Mobile-Computing-System-Models/Context-Aware-Computing/Mobile-Security/Mobility/Power-and-Energy/IOT;
 
 **Programming**: Java(Android Studio) ;
 
